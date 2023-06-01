@@ -105,6 +105,11 @@ const SiteLayout = ({ batteryConfig }) => {
 
                 // Insert a transformer after every 4 batteries
                 if (batteryCount % 4 === 0) {
+                    if (currentWidth + width > 100) {
+                        currentWidth = 0;
+                        currentHeight += height * 10 + 20; // Add extra margin for battery and transformer
+                        currentLine++;
+                    }
                     const transformerStyle = {
                         width: `${parseFloat(BatteryInfo.transformer.dimension.split('FT x ')[0]) * 10}px`,
                         height: `${parseFloat(BatteryInfo.transformer.dimension.split('FT x ')[1]) * 10}px`,
