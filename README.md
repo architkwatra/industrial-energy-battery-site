@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Industrial Energy Battery Layout mock up
 
 This project lets a user choose from different Industrial Energy Battery options and mocks up a layout for the chosen options in the UI.  
 <br />
