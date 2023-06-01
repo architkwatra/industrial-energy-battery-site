@@ -50,6 +50,7 @@ const BatteryForm = ({ onBatteryConfigChange }) => {
                             name="megapack2XL"
                             value={megapack2XL}
                             onChange={handleInputChange}
+                            min="0" max="100"
                         />
                     </div>
                 </li>
@@ -62,6 +63,7 @@ const BatteryForm = ({ onBatteryConfigChange }) => {
                             name="megapack2"
                             value={megapack2}
                             onChange={handleInputChange}
+                            min="0" max="100"
                         />
                     </div>
                 </li>
@@ -74,6 +76,7 @@ const BatteryForm = ({ onBatteryConfigChange }) => {
                             name="megapack"
                             value={megapack}
                             onChange={handleInputChange}
+                            min="0" max="100"
                         />
                     </div>
                 </li>
@@ -86,6 +89,7 @@ const BatteryForm = ({ onBatteryConfigChange }) => {
                             name="powerpack"
                             value={powerpack}
                             onChange={handleInputChange}
+                            min="0" max="100"
                         />
                     </div>
                 </li>
