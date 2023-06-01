@@ -7,8 +7,6 @@ import './App.css';
 
 function App() {
 
-
-
   const [batteryConfig, setBatteryConfig] = useState({
     megapack2XL: 0,
     megapack2: 0,
