@@ -18,9 +18,9 @@ For starting the server individually, user can run use the below command
 
 Below are a few pictures showing how the UI looks with different options chosen for the industrial battery
 
-![alt text](https://github.com/architkwatra/industrial-energy-battery-site/blob/main/resources/1.png)
+![alt text](https://github.com/architkwatra/industrial-energy-battery-site/blob/main/resources/1.png?raw=true)
 
-![alt text](https://github.com/architkwatra/industrial-energy-battery-site/blob/main/resources/2.png)
+![alt text](https://github.com/architkwatra/industrial-energy-battery-site/blob/main/resources/2.png?raw=true)
 
-![alt text](https://github.com/architkwatra/industrial-energy-battery-site/blob/main/resources/3.png)
+![alt text](https://github.com/architkwatra/industrial-energy-battery-site/blob/main/resources/3.png?raw=true)
 
