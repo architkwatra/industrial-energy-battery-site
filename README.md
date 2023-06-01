@@ -18,10 +18,6 @@ For installing the node modules separately, user can run the below command
 
 ### `npm install` command installs all the necessary modules needed for the project
 <br />
-
-For starting the server individually, user can run use the below command
-### `npm start` command runs the server on `localhost:8080`
-
 <br />
 
 Below are a few screenshots showing how the UI looks with different options chosen for the industrial battery
